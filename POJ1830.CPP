@@ -1,5 +1,5 @@
 // O(n^3)
-/*	input: 	a
+/*	input: 	a, a matrix of parameters
 		n
 		l,ans
 	ouput: dimensions of the solution space
